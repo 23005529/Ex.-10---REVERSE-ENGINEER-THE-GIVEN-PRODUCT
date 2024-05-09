@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/23005529/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139842207/cadfdd48-88df-4992-91af-e505210d2bb2)
+
 ### Output:
 
+![image](https://github.com/23005529/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139842207/05f26cd8-4757-4635-9229-790ffb60d33a)
 
-### Name:
-### Register Number:
+### Name: ALIYA SHEEMA 
+### Register Number: 212223230011
 
 ## RESULT:
+
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
